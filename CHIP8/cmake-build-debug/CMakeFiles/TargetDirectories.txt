@@ -1,0 +1,3 @@
+C:/Users/sulaiman/OneDrive/Desktop/CHIP8/cmake-build-debug/CMakeFiles/CHIP8.dir
+C:/Users/sulaiman/OneDrive/Desktop/CHIP8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sulaiman/OneDrive/Desktop/CHIP8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
